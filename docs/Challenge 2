@@ -1,0 +1,10 @@
+# Challenge 002: Coordinated Spool Control for a Continuous Cable Loop
+
+**Problem:** How do we control N spools (e.g., 12 spools for 2 cables on 6 links) to uniformly tension or expand a continuous loop around an irregular object without causing slack, jams, or over-tension?
+
+**Parameters:**
+- Each spool has a VFD motor, encoder, and tension sensor.
+- Spools communicate via a CAN bus network.
+- The asteroid's shape is unknown pre-contact.
+
+**Simulation Task:** Develop a simple control algorithm (in Python, MATLAB, etc.) that uses a "master tension" value and adjusts individual spool speeds to maintain it, simulating an irregular shape pushing on the net.
