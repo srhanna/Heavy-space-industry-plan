@@ -1,0 +1,8 @@
+# Challenge 003: Define the Gen 1 Universal Trolley Bot
+
+**Goal:** Specify the minimum viable mobile manipulator.
+
+**Open Questions for Community Input:**
+1.  **Wheel Design:** What wheel mechanism can reliably grip a tensioned cable and roll over a ball joint connector?
+2.  **Arm Payload:** What is the required lifting capacity (e.g., 5kg) for the octopus-arm manipulators?
+3.  **Toolset:** What are the 3 essential, interchangeable tool heads for Gen 1? (e.g., camera probe, cable gripper, connector wrench).
