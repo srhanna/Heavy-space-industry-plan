@@ -63,6 +63,15 @@ This work is dedicated to the open-source future of humanity in space.
 *   **The functional designs, software, and firmware** in this repository are released under the **GNU Affero General Public License v3.0**. See the `LICENSE` file.
 *   **The documentary content, manifestos, and explanatory text** are released under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. See the `LICENSE-CC-BY-SA` file.
 
+*   ## License
+
+This repository employs a dual-license model to protect both functional designs and creative vision:
+
+*   **All software, code, and functional/engineering designs** are licensed under the **GNU Affero General Public License v3.0**. See the [`LICENSE`](LICENSE) file for details.
+*   **All text, documentation, manifestos, and non-code creative works** (including this README and `MANIFESTO.md`) are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International** license. See the [`LICENSE-CC`](LICENSE-CC) file for details.
+
+This structure ensures the project's technical blueprint remains open and free (under AGPLv3's strong copyleft), while its philosophical and documentary foundation (under CC BY-SA) is freely shareable and must remain open.
+
 These licenses ensure this blueprint remains free, open, and dedicated to the common good. All derivatives must carry the same freedom and provide attribution to the originator, **Stephan Ross Hanna**.
 
 ---
