@@ -31,6 +31,7 @@ This is an open-source, open-design project. We need:
 
 **Start Here:** Read the [`MANIFESTO.md`](MANIFESTO.md), then explore the strategic overview in [`docs/00_ACCELERATED_BOOTSTRAP.md`](docs/00_ACCELERATED_BOOTSTRAP.md).
 
+**License:** This project uses a dual license to ensure it remains a permanent commons. All functional designs are under the **GNU AGPLv3**; all text and docs are under **Creative Commons BY-SA 4.0**. See the LICENSE files for details.
 **License:** This project uses a dual license to ensure it remains a permanent commons. All functional designs are under the **GNU AGPLv3**; all text and docs are under **Creative Commons BY-SA 4.0**. See the LICENSE files for details.same freedom and provide attribution to the originator, **Stephan Ross Hanna**.
 
 ---
