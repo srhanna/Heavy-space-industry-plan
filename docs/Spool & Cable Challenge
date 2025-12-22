@@ -1,0 +1,15 @@
+# Challenge: Gen 1 Continuous Loop Cable System
+
+## Objective
+Design the spooling mechanism for a two-cable, continuous loop system on a Gen 1 link.
+
+## Specifications & Open Questions
+1.  **Cable:** ~115m length per loop, 5-10mm diameter. Exact material? (e.g., Dyneema, steel).
+2.  **Spool:** Must fit within a 0.6m x 0.6m x 0.8m link chassis with other components. What are optimal dimensions?
+3.  **Motor & Drive:** BLDC motor + planetary gearbox + rad-hard VFD. Required stall torque? Estimated mass/power?
+4.  **Control:** How does the AI coordinate spools across all links to tighten/loosen the net without jams?
+
+## Deliverable Ideas
+*   A kinematic model (in any software) of the spooling mechanism.
+*   A control algorithm pseudo-code for coordinated tensioning.
+*   A Blender model of the integrated spool within a link.
