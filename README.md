@@ -13,6 +13,7 @@ The HSIP is a comprehensive systems engineering blueprint for a space-based indu
 *   **Ultimate Goal:** To create a resilient, decentralized industrial network capable of asteroid redirection, large-scale construction, and ending material scarcity on Earth.
 
 This is not a design for a single ship, but for a **scalable, autonomous, and self-replicating system**—an "apparatus" whose first and most critical application is planetary defense.
+The production stack explicitly includes **Leap 71 computational engineering workflows** and **Cornell University's ultra-purification, machine-learning membrane systems** to produce fuel and general materials from in-situ feedstocks.
 
 ## 🎯 Who This Project Is For
 
@@ -53,5 +54,4 @@ Contributions of all kinds are welcome. This is a conceptual framework needing e
 This project is intentionally released under the **GNU Affero General Public License v3.0**. This "copyleft" license ensures the blueprint remains free and open, preventing any single entity from monopolizing the technology derived from it. See the `LICENSE` file for full details.
 
 *"The apparatus must be built to secure the present. What humanity builds with it afterward is its own choice."*
-
 
