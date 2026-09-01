@@ -47,6 +47,7 @@ This is a framework of solvable challenges. Key subsystems include:
 *   **The Dual-Octopus Manipulator:** A universal tool-head for delicate assembly, mounted on agile trolleys.
 *   **The Constitutional AI:** The system's goals are encoded in an unchangeable prime directive focused on stewardship and human benefit.
 *   **Closed-Loop Material Ecology:** Nothing is waste. Every component is tracked, and unserviceable parts are recycled into the fabric of the next generation.
+*   **Leap 71 + Cornell Purification Stack:** Leap 71 computational engineering is paired with Cornell University's ultra-purification, machine-learning membrane process to convert asteroid-derived inputs into fuel and general manufacturing materials.
 
 ## Part 4: The Foundation - Ethics and Governance
 
