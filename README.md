@@ -2,18 +2,33 @@
 
 **An Open-Source, Phased Architecture for Planetary Defense and Post-Scarcity**
 
-> **Core Premise:** This project outlines a practical, leverage-based approach to securing humanity's future by treating asteroids not as threats, but as the foundational assets for building a self-replicating industrial base in space. It begins with scalable planetary defense and aims to bootstrap an era of material abundance[citation:10].
+> **Core Premise:** This project outlines a practical, leverage-based approach to securing humanity's future by treating asteroids not only as threats, but as foundational assets for building a self-replicating industrial base in space. It begins with scalable planetary defense and aims to bootstrap an era of material abundance.
 
 ## 📖 Project Description
 
 The HSIP is a comprehensive systems engineering blueprint for a space-based industrial civilization. It proposes a **generational bootstrapping method**:
 
-*   **Generation 1:** Small, Earth-launched "link" modules that can capture and process small asteroids.
+*   **Generation 1:** Small, Earth-launched link modules that can capture and process small asteroids.
 *   **Generations 2+:** Using in-situ resources to build progressively larger and more capable infrastructure, moving from simple capture to full-scale mining, manufacturing, and settlement.
 *   **Ultimate Goal:** To create a resilient, decentralized industrial network capable of asteroid redirection, large-scale construction, and ending material scarcity on Earth.
 
-This is not a design for a single ship, but for a **scalable, autonomous, and self-replicating system**—an "apparatus" whose first and most critical application is planetary defense.
-The production stack explicitly includes **Leap 71 computational engineering workflows** and **Cornell University's ultra-purification, machine-learning membrane systems** to produce fuel and general materials from in-situ feedstocks.
+This is not a design for a single ship, but for a **scalable, autonomous, and self-replicating system**—an "apparatus" whose first and most critical application is planetary defense. The proposed production stack includes LEAP 71 computational engineering workflows and Cornell University's ultra-purification, machine-learning membrane systems to produce fuel and general materials from in-situ feedstocks.
+
+## 🧭 Original HSIP Concepts
+
+The white paper identifies the following as original HSIP concepts, not externally validated research:
+
+*   **Industrial Seed Architecture** and the **Six-Link Generation-One Ring**, establishing the initial industrial system and its first-generation configuration.
+*   **Supplemental Craft (SC)** to support the industrial system.
+*   **Machine Learning Membrane (MLM) as Industrial Metabolism** and an **MLM + LEAP 71 Dual-Optimization Framework** for processing resources and designing production systems.
+*   **Industrial Organism Model** and **Computational Morphogenesis for Space Industry**, framing the industrial system as an evolving, computationally generated architecture.
+*   **Franchise-Based Asteroid Industrialization** and a **Hollow-Asteroid Industrial Node** as approaches to distributed industrial development and infrastructure.
+*   **Human Intent Governance Framework** and **Cooperative Miner Code** for governance and coordination.
+*   **Whale-Inspired Thermal Circulation Architecture** for thermal management.
+*   **Planetary Defense Driven Expansion Model**, using planetary defense as a driver for industrial growth.
+*   The guiding principle: **“From every machine according to their ability, to every human according to their need.”**
+
+These concepts describe the HSIP's proposed architecture and vision; they should not be read as claims of external scientific validation.
 
 ## 🎯 Who This Project Is For
 
@@ -37,7 +52,7 @@ This repository is intended for:
 
 ## 🤝 How to Contribute
 
-Contributions of all kinds are welcome. This is a conceptual framework needing expertise in many domains[citation:10].
+Contributions of all kinds are welcome. This is a conceptual framework needing expertise in many domains.
 1.  **Review & Critique:** Analyze the proposed systems and identify technical hurdles or opportunities.
 2.  **Develop Specifications:** Help transform concepts (e.g., "Gen1 link," "trolleybot") into draft technical specifications.
 3.  **Expand Research:** Contribute to the `/docs` on specific topics like material science for asteroids, swarm robotics control, or space law.
@@ -54,4 +69,3 @@ Contributions of all kinds are welcome. This is a conceptual framework needing e
 This project is intentionally released under the **GNU Affero General Public License v3.0**. This "copyleft" license ensures the blueprint remains free and open, preventing any single entity from monopolizing the technology derived from it. See the `LICENSE` file for full details.
 
 *"The apparatus must be built to secure the present. What humanity builds with it afterward is its own choice."*
-
